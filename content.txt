@@ -1,0 +1,122 @@
+OUTLINE
+-------------------------------------------------------------------------------
+
+frame 1 -
+    picture
+    important social (linkedin, twitter)
+    name with one liner
+
+frame 2 - short description
+
+frame 3 - tech stuff
+
+frame 4 - music
+
+frame 5 - other random naansense
+
+frame 6 - links
+    mail
+    github
+    linkedin
+    twitter
+    facebook
+    soundcloud
+    instagram
+
+
+
+
+
+
+
+FRAME 1
+-------------------------------------------------------------------------------
+Hello there, I'm Aby
+Your average coder, musician, foodie and polymath
+
+
+FRAME 2
+-------------------------------------------------------------------------------
+blah blah this blah blah that
+
+
+FRAME 3
+-------------------------------------------------------------------------------
+HTML, CSS, Javascript (AngularJS, jQuery)
+NodeJS, nw
+
+Github link
+
+{
+    "techKnowHow" : {
+        "webStack": [
+            "Javascript",
+            "AngularJS",
+            "jQuery",
+            "HTML",
+            "CSS",
+            "NodeJS",
+            "Node-Webkit"
+        ],
+        "programming" : [
+            "Java",
+            "C"
+        ]
+    },
+    "Github" : "http://www.github.com/5uperbug",
+    "Linkedin" : ""
+}
+
+
+
+
+
+
+FRAME 4
+-------------------------------------------------------------------------------
+soundcloud widget to 5uperbug
+link to incarnadine
+
+{
+    "audioGeekery" : [
+        "audio production",
+        "guitarist",
+        "wannbe drummer"
+    ],
+
+    //My electronic project
+    "5uperbug" : "http://soundcloud.com/5uperbug",
+
+    //My band
+    "Incarnadine" : "https://soundcloud.com/incarnadineband"
+}
+
+
+FRAME 5
+-------------------------------------------------------------------------------
+Rambling about photography and a love for food
+
+{
+    "otherMusings" : [
+        "Photography",
+        "Cooking"
+    ]
+
+    //Picture portfolio
+    "500px" : "",
+
+    //Instagood pictures :)
+    "Instagram" : "https://instagram.com/a_bster"
+}
+
+
+Links to everything
+-------------------------------------------------------------------------------
+    mail
+    github
+    linkedin
+    twitter
+    facebook
+    soundcloud
+    instagram
+    500px
